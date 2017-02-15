@@ -71,3 +71,4 @@
 /ObjImages/
 *.bmp
 !/myObjCut/
+/ipch/
