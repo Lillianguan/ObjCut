@@ -27,6 +27,8 @@
 *.pgd
 *.rsp
 *.sbr
+*.sln
+*.sdf
 *.tlb
 *.tli
 *.vcxproj
